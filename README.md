@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/license-todos%20os%20direitos%20reservados-lightgrey?style=flat"/>
+  <img src="https://img.shields.io/badge/License-Todos%20os%20direitos%20reservados-lightgrey?style=flat"/>
 </p>
 
 > Status do Projeto: (Em desenvolvimento)
