@@ -34,11 +34,11 @@
 ## Descrição do projeto
 
 <p align="justify">
-O Sistema de Gerenciamento de Biblioteca é um Trabalho de Conclusão de Curso em Análise e Desenvolvimento de Sistemas, com o objetivo de digitalizar o controle de acervo, empréstimos e devoluções de uma biblioteca, oferecendo cadastro de livros, autores, alunos e funcionários, além de relatórios em PDF e um dashboard com indicadores de uso.
+O Sistema de Gerenciamento de Biblioteca é um Trabalho de Conclusão de Curso Técnico em Informática, com o objetivo de digitalizar o controle de acervo, empréstimos e devoluções de uma biblioteca, oferecendo cadastro de livros, autores, alunos e funcionários, além de relatórios em PDF e um dashboard com indicadores de uso.
 </p>
 
 <p align="justify">
-Esta é a segunda versão do projeto, evoluída a partir de uma implementação inicial em PHP procedural. A v1 cumpriu seu papel didático, mas acumulou problemas estruturais — lógica de negócio misturada com HTML, consultas SQL vulneráveis a injection, senha armazenada em texto puro e nenhuma separação entre camadas. Esta versão aplica Domain-Driven Design tático e Clean Architecture sobre uma stack de monólito moderno (Laravel + Inertia.js + React), mantendo o domínio de negócio isolado de qualquer framework ou biblioteca de UI.
+Esta é a segunda versão do projeto, evoluída a partir de uma implementação inicial em PHP procedural. A V1 cumpriu seu papel didático, mas acumulou problemas estruturais — lógica de negócio misturada com HTML, consultas SQL vulneráveis a injection, senha armazenada em texto puro e nenhuma separação entre camadas. Esta versão aplica Domain-Driven Design tático e Clean Architecture sobre uma stack de monólito moderno (Laravel + Inertia.js + React), mantendo o domínio de negócio isolado de qualquer framework ou biblioteca de UI.
 </p>
 
 ## Sobre esta reestruturação (v1 → v2)
