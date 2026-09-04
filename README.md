@@ -201,7 +201,7 @@ como foram resolvidos.
 
 O time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/163610849?v=4" width=115><br><sub>Gabriel Camilo</sub>](https://github.com/CamiloGCode) |
+[<img src="https://avatars.githubusercontent.com/u/163610849?v=4" width=115><br><sub>|Gabriel Camilo|</sub>](https://github.com/CamiloGCode)
 
 <!-- Substituir pelas fotos (avatars.githubusercontent.com/u/<id>?v=4) e links reais do GitHub de cada integrante, como no modelo do IQA Monitor. -->
 
